@@ -1,0 +1,14 @@
+.box {
+    background-color: red;
+    border: 12px solid blue;
+    border-radius: 15px;
+    text-align: justify;
+    padding: 72px;
+    /* 
+    if padding have two value then it will be applied to top/bottom and left/right
+    if padding have three value then it will be applied to top, left/right and bottom  
+    if padding have four value then it will be applied to top, right, bottom and left
+    */
+    width: 300px;
+    height: 200px;
+}
