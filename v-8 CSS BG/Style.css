@@ -1,0 +1,11 @@
+.box {
+    margin: 30px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px grey;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0fHwwfHwwfHx8MTY4NjI5NzE3Nw&auto=format&fit=crop&w=500&q=60');
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+    /* display: inline; */
+}
