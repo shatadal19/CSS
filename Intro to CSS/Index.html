@@ -3,9 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intro to CSS</title>
+    <title>Intro to CSS</title>\
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .fast {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
+    <h1>Cascading Style Sheets (CSS)</h1>
+    <!-- inline css
+     inline tag <style> h1 { color: blue; } </style>
+    internal css <style> h1 { color: blue; } </style>
+    external css <link rel="stylesheet" href="style.css">
     
+    -->
+
+    <p style="color: blue;">This is a simple example of using CSS.</p>
+
+    <div class="fast">
+        <p>This text is inside a div with class "fast".</p>
+    </div>
 </body>
 </html>
