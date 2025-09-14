@@ -1,0 +1,18 @@
+.box{
+    background-color: red;
+    /* border: 2px solid blue; */
+    border-top: 6px solid blue;
+    border-right: 6px dashed purple;
+    border-bottom: 6px dotted green;
+    border-left: 6px double orange;
+    border-radius: 5px;
+    margin: 5px;
+    /* margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px; */
+    /* if margin have two value then it will be applied to top/bottom and left/right
+    if margin have three value then it will be applied to top, left/right and bottom
+    if margin have four value then it will be applied to top, right, bottom and left
+    */
+}
