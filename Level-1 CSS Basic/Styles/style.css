@@ -1,6 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 P{
     color: pink;
 }
 .bold{
     font-weight: bold;
+}
+h2,h3,h4{
+    color: chocolate;
+}
+ul li ol li{
+    color: cornflowerblue;
 }
