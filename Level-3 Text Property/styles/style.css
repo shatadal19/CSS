@@ -30,13 +30,25 @@
 
 #box1{
     text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
 }
 #box2{
     text-transform: lowercase;
+    font-size: 134px;
+    font-weight: 700;
 }
 #box3{
     text-transform: capitalize;
+    font-size: 56px;
+    font-weight: 600;
 }
 #box4{
     text-transform: none;
+    font-size: 16px;   
+    font-weight: 400; 
+}
+
+#line-hight{
+    line-height: 56px;
 }
