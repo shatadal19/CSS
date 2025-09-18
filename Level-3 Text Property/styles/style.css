@@ -11,4 +11,7 @@
     padding: 23px;
     margin: 23px;
     background-color: rgba(54, 119, 168, 0.582);
+    /* text-align: center; */
+    /* text-align: left; */
+    text-align: end;
 }
