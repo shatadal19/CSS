@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    padding: 23px;
+    margin: 23px;
+    background-color: rgba(54, 119, 168, 0.582);
+}
