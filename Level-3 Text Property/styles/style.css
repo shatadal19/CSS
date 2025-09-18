@@ -26,3 +26,17 @@
     text-decoration-color: blueviolet;
     color: black;
 }
+
+
+#box1{
+    text-transform: uppercase;
+}
+#box2{
+    text-transform: lowercase;
+}
+#box3{
+    text-transform: capitalize;
+}
+#box4{
+    text-transform: none;
+}
