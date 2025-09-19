@@ -13,6 +13,7 @@
     border-right: 25px dashed blue;
     border-bottom: 25px solid green;
     margin: 45px 35px 23px 15px;
+    border-radius: 10px;
     /* border: 23px 25px solid green; */
     
 }
