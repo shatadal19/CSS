@@ -22,10 +22,12 @@
     background-color: red;
     height: 130px;
     width: 130px;
+    font-size: 25px;
 }
 
 #Second{
     background-color: green;
     width: 50%;
     height: 34%;
+    font-size: 0.5em;
 }
