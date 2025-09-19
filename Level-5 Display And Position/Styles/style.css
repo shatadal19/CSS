@@ -21,8 +21,8 @@
 
 #first{
     background-color: red;
-    height: 130px;
-    width: 130px;
+    height: 50vh;
+    width: 100vw;
     font-size: 1.1rem;
 }
 
