@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box{
+    width: 300px;
+    height: 150px;
+    padding: 45px 35px 23px 15px;
+    background-color: red;
+    border-top: 25px solid blue;
+    border-left: 25px dashed blue;
+    border-right: 25px dashed blue;
+    border-bottom: 25px solid green;
+    margin: 45px 35px 23px 15px;
+    /* border: 23px 25px solid green; */
+    
+}
