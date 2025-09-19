@@ -15,5 +15,5 @@
     margin: 45px 35px 23px 15px;
     border-radius: 10px 10px 45px 13px;
     /* border: 23px 25px solid green; */
-    
+    box-sizing: border-box;
 }
