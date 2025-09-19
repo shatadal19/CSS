@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-size: 45px;
 }
 
 /* .box{
@@ -22,7 +23,7 @@
     background-color: red;
     height: 130px;
     width: 130px;
-    font-size: 25px;
+    font-size: 1.1rem;
 }
 
 #Second{
