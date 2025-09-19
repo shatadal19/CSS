@@ -4,11 +4,28 @@
     box-sizing: border-box;
 }
 
-.box{
+/* .box{
     height: 130px;
     width: 130px;
     margin: 5px;
     background-color: red;
-    /* display: inline; */
-    /* display: inline-block; */
+    display: inline;
+    display: inline-block;
+}
+
+#box1{
+    visibility: hidden;
+    display: none;
+} */
+
+#first{
+    background-color: red;
+    height: 130px;
+    width: 130px;
+}
+
+#Second{
+    background-color: green;
+    width: 50%;
+    height: 34%;
 }
