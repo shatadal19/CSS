@@ -1,0 +1,14 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    padding: 5px;
+}
+@media screen and (min-width: 300px){
+    .box{
+        background-color: red;
+        border-radius: 50%;
+
+    }
+    
+}
