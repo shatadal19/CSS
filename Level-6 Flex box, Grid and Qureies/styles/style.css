@@ -44,18 +44,21 @@
     background-color: #80b3ff;
     /* float: left; */
     /* flex-shrink: 0; */
-    flex-grow: 1;
+    /* flex-grow: 1; */
+    /* order: 6; */
 }
 .item3 {
     background-color: #ffff80;
     /* align-self: center; */
     /* flex-shrink: 3; */
+    /* order: 3; */
     
 }
 .item4 {
     background-color: #ff80ff;
     /* align-self: end; */
     /* flex-shrink: 4; */
+    /* order: 1; */
     
 }
 
