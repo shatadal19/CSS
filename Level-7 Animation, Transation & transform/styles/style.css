@@ -3,3 +3,24 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.btn{
+    
+    padding: 15px 30px;
+    background-color: #3498db;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
+
+.btn:hover{
+    background-color: #2ecc71;
+    /* cursor: pointer; */
+    /* transform: scale(1.1);
+    transition: all 0.7s ease-in-out; */
+}
+
+.btn:active{
+    background-color: red;
+}
