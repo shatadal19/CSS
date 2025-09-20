@@ -28,28 +28,33 @@
 }
 
 .item {
-    width: 70px;
-    height: 70px;
+    width: 170px;
+    height: 170px;
     margin: 6px;
 }
 
 .item1 {
     background-color: #80ff80;
     /* float: right; */
+    
+
 }
 
 .item2 {
     background-color: #80b3ff;
     /* float: left; */
+    flex-shrink: 0;
 }
 .item3 {
     background-color: #ffff80;
     /* align-self: center; */
+    flex-shrink: 3;
     
 }
 .item4 {
     background-color: #ff80ff;
     /* align-self: end; */
+    flex-shrink: 4;
     
 }
 
