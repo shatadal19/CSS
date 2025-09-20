@@ -8,6 +8,7 @@
     height: 70vh;
     width: 90vw;
     background-color: #ff8080;
+    display: flex;
 }
 
 .item {
@@ -17,10 +18,27 @@
 
 .item1 {
     background-color: #80ff80;
-    float: right;
+    /* float: right; */
 }
 
 .item2 {
     background-color: #80b3ff;
-    float: left;
+    /* float: left; */
+}
+.item3 {
+    background-color: #ffff80;
+    
+}
+.item4 {
+    background-color: #ff80ff;
+    
+}
+
+.item5 {
+    background-color: #b3b3b3;
+    
+}
+.item6 {
+    background-color: #ffb380;
+    
 }
