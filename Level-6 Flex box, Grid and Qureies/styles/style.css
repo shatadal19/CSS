@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 70vh;
+    width: 90vw;
+    background-color: #ff8080;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+}
+
+.item1 {
+    background-color: #80ff80;
+    float: right;
+}
+
+.item2 {
+    background-color: #80b3ff;
+    float: left;
+}
