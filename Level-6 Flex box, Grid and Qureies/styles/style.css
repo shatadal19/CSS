@@ -18,18 +18,18 @@
     /* justify-content: space-between; */
     /* justify-content: space-around;   */
     /* justify-content: space-evenly; */
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     /* flex-wrap: wrap-reverse; */
     /* align-items: center; */
     /* align-items: end; */
     /* align-items: start; */
     /* align-content: start; */
-    align-content: center;
+    /* align-content: center; */
 }
 
 .item {
-    width: 170px;
-    height: 170px;
+    width: 70px;
+    height: 70px;
     margin: 6px;
 }
 
@@ -44,10 +44,12 @@
 }
 .item3 {
     background-color: #ffff80;
+    /* align-self: center; */
     
 }
 .item4 {
     background-color: #ff80ff;
+    /* align-self: end; */
     
 }
 
